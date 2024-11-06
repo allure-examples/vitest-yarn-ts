@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^22.7.4",
-    "@vitest/runner": "^2.1.1",
-    "allure-js-commons": "^3.0.3",
-    "allure-vitest": "^3.0.3",
-    "vitest": "^2.1.1"
+    "@types/node": "^22.9.0",
+    "@vitest/runner": "^2.1.4",
+    "allure-js-commons": "^3.0.6",
+    "allure-vitest": "^3.0.6",
+    "vitest": "^2.1.4"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.1"
 }
